@@ -22,3 +22,27 @@ To get started with the Namer application, follow these steps:
    ```bash
    git clone https://github.com/Munene-Murithi/flutter-namer-android-app.git
    cd flutter-namer-android-app
+
+2. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+
+3. **Run the application:**
+    ```bash
+    flutter run
+
+## Usage
+
+- Once the application is running, you can:
+- Tap the "Generate" button to create a new random name.
+- Tap the star icon to save your favorite names for easy access later.
+- Browse through your saved names in the "Favorites" section.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+___
+
+Enjoy generating names with Namer! If you have any questions or suggestions, feel free to open an issue or submit a pull request. Happy naming!
